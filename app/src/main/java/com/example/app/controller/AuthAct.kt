@@ -1,12 +1,12 @@
 package com.example.app.controller
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.app.R
 
-class Auth_Activity : AppCompatActivity() {
+class AuthAct : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_auth)
+        setContentView(R.layout.activity_signin)
+        }
     }
-}

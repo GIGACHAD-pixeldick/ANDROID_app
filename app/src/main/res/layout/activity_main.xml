@@ -10,7 +10,7 @@
         android:id="@+id/imageView"
         android:layout_width="280.97dp"
         android:layout_height="218.8dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="36dp"
         app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView"
