@@ -25,6 +25,7 @@ class RegAct : AppCompatActivity() {
             finish()
             val login = username.text.toString()
             val pochta = email.text.toString()
+
             val parol = password.text.toString()
             var parol2 = enterpassword.text.toString()
             val retrofit = Retrofit.Builder()
